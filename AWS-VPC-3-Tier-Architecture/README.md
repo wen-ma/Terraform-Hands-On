@@ -7,7 +7,7 @@
 - Define Output Values for VPC
 
 ## Architecture
-
+![](https://github.com/wen-ma/Terraform-Hands-On/blob/main/pics/AWS-VPC-3-Tier-Architcture.drawio.png)
 
 ## Clean-Up
 ```
